@@ -1,4 +1,12 @@
 body {
-    align-items: center;
+    margin-left: 6rem;
+    margin-right: 6rem;
     background-color: lightgray;
+}
+
+h1 {
+    margin: 2rem;
+}
+h2 {
+    margin: 1rem;
 }
